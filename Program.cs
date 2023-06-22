@@ -8,7 +8,7 @@ class Program
     public static void Main(string[] args)
     {
         
-        Console.WriteLine("Digite um número inteiro maior que 1: ");
+        Console.WriteLine("Olá, digite um número inteiro maior que 1: ");
         int numero = Convert.ToInt32(Console.ReadLine());
 
         if(numero <= 1)
