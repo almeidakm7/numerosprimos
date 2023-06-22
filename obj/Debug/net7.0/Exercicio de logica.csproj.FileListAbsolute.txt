@@ -1,0 +1,15 @@
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\obj\Debug\net7.0\Exercicio de logica.csproj.AssemblyReference.cache
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\obj\Debug\net7.0\Exercicio de logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\obj\Debug\net7.0\Exercicio de logica.AssemblyInfoInputs.cache
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\obj\Debug\net7.0\Exercicio de logica.AssemblyInfo.cs
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\obj\Debug\net7.0\Exercicio de logica.csproj.CoreCompileInputs.cache
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\bin\Debug\net7.0\Exercicio de logica.exe
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\bin\Debug\net7.0\Exercicio de logica.deps.json
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\bin\Debug\net7.0\Exercicio de logica.runtimeconfig.json
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\bin\Debug\net7.0\Exercicio de logica.dll
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\bin\Debug\net7.0\Exercicio de logica.pdb
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\obj\Debug\net7.0\Exercicio de logica.dll
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\obj\Debug\net7.0\refint\Exercicio de logica.dll
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\obj\Debug\net7.0\Exercicio de logica.pdb
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\obj\Debug\net7.0\Exercicio de logica.genruntimeconfig.cache
+C:\Users\almei\Desktop\Poo Estudo\Exercicio de logica\obj\Debug\net7.0\ref\Exercicio de logica.dll
